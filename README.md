@@ -2,7 +2,7 @@
 
 **(Ongoing Project)**
 
-Chatty is a real-time messaging web application designed to facilitate seamless direct communication. Developed as a group project by Isini Anuththara and Nimasha Sathsarani, the app aims to deliver an intuitive and responsive user experience while ensuring robust performance and reliability.
+Chatty is a real-time messaging web application designed to facilitate seamless direct communication. Developed as a project by Isini Anuththara and Nimasha Sathsarani, the app aims to deliver an intuitive and responsive user experience while ensuring robust performance and reliability.
 
 ## Project Overview
 
